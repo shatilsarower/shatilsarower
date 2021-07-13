@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b26fa69-b438-4367-9cfa-c1c6ed363152" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/shatilsarower/shatilsarower" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vGnaHcHdRclK5D8GVhEd3Zusd6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b26fa69-b438-4367-9cfa-c1c6ed363152" name="Default Changelist" comment="" />
+      <created>1626197356158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626197356158</updated>
+    </task>
+    <task id="LOCAL-00001" summary="7th">
+      <created>1626197390635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626197390635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="50" y="178" width="1720" height="853" key="DiffContextDialog" timestamp="1626197848049">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="50" y="178" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1626197848049" />
+    <state x="555" y="289" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1626197400944">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="802" height="537" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1626197400944" />
+    <state x="435" y="280" width="1042" height="556" key="new project wizard" timestamp="1626197916322">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="435" y="280" width="1042" height="556" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1626197916322" />
+  </component>
+</project>

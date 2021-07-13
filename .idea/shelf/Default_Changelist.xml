@@ -1,0 +1,19 @@
+<changelist name="Default_Changelist" date="1626197844830" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/data.mdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/data.mdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/libobjectbox-jni-linux-x64.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/libobjectbox-jni-linux-x64.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/lock.mdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/lock.mdb" />
+  </binary>
+</changelist>
