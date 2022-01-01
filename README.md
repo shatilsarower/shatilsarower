@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/dusk/2x/c.png" alt="C" width="40" height="40"/> <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/officel/2x/c-plus-plus.png" alt="C++" width="40" height="40"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://logowik.com/content/uploads/images/flutter5786.jpg"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/> </a>
      </a> 
     </a> 
    </a> 
