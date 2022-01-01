@@ -23,9 +23,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg"/> 
     </a>
-    
-     </a> 
-    </a> 
+  
    </a> 
      </a> 
      </a> 
