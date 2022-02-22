@@ -62,7 +62,26 @@
 <br/>
 <br/>
 
-<a href="https://github.com/shatilsarower/github-readme-activity-graph"><img alt="Shatil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shatilsarower&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
+ 
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+</div>
+
+ </br>  
+ 
+ 
+ 
+ 
 
 <br/>
 <br/>
