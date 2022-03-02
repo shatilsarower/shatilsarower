@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shatil</h1>
-![shatil](https://user-images.githubusercontent.com/38027343/156429806-00ae89cc-2960-4078-befc-537d55c10404.gif)
+[shatil](https://user-images.githubusercontent.com/38027343/156429806-00ae89cc-2960-4078-befc-537d55c10404.gif)
 
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
 
