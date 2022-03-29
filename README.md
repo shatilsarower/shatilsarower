@@ -95,8 +95,32 @@
     <a href="https://github.com/shatilsarower/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shatilsarower&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shatilsarower/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> 
+ 
+<div align="center">
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+
+<a href="https://github.com/hrugved06/Career-Prediction-System">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Career-Prediction-System&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Discbot_ai">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Team-PSI-Portfolio-webIO">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Team-PSI-Portfolio-webIO&theme=dark" />
+</a>
+ 
+ </div>
+
+</br>
+<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
 <br/>
 <br/>
