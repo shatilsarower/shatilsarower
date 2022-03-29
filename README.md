@@ -102,7 +102,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/shatilsarower/managment">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=shatilsarower=managment=dark" />
+ <img align='center' src="https://github-readme-stats.username=shatilsarower=managment=dark" />
 </a>
 
 <a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
