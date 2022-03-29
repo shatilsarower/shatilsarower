@@ -107,7 +107,6 @@
  
 <p align="center">
  
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
 
