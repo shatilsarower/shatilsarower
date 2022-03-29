@@ -97,27 +97,7 @@
   <br/>
   <b>Note:</b> 
  
-<div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
-
-<a href="https://github.com/shatilsarower/managment">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=shatilsarower&repo=managment=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
-</a>
-
-<a href="https://github.com/shatilsarower/managment">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Team-PSI-Portfolio-webIO&theme=dark" />
-</a>
- 
- </div>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
