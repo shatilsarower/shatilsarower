@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi0321&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/khushi0321)
+[![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/shatilsarower)
   
 
 </div>
