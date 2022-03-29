@@ -96,7 +96,15 @@
   <a href="https://github.com/shatilsarower/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> 
+ <div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=shatilsarowerbg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
  
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+</div>
 
 
 </br>
