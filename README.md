@@ -104,7 +104,7 @@
 
 <!-- [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/shatilsarower) -->
   
- ![Shatil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shatilsarower&show_icons=true&theme=radical&hide_border=true)
+ 
 
 </div>
 
