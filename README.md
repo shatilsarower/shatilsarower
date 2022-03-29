@@ -113,7 +113,7 @@
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Team-PSI-Portfolio-webIO">
+<a href="https://github.com/shatilsarower/managment">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Team-PSI-Portfolio-webIO&theme=dark" />
 </a>
  
