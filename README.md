@@ -101,7 +101,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
-<a href="https://github.com/hrugved06/Career-Prediction-System">
+<a href="https://github.com/shatilsarower/managment">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Career-Prediction-System&theme=dark" />
 </a>
 
