@@ -3,9 +3,7 @@
 ![kill](https://user-images.githubusercontent.com/38027343/155214729-d06c4819-875c-428c-8d49-9d6166fef0ac.gif)
 
 
-<div align="center">
- 
-src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Shatil Here <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shatil</h1> -->
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
