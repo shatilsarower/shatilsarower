@@ -103,7 +103,7 @@
 <div align="center">
 
 <!-- [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/shatilsarower) -->
-  
+ [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph) 
  
 
 </div>
