@@ -112,3 +112,9 @@
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
 </p> 
+     
+ ## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>    
