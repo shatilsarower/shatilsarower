@@ -108,4 +108,7 @@
 <br/>
 <br/>
 
-
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
+</p> 
