@@ -68,28 +68,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      </a> 
     </a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count_private=true&theme=radical&card_width=445)<br><br>
+  <br>
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count_private=true&theme=radical&card_width=445)<br>
 
 
 <p align="center">
