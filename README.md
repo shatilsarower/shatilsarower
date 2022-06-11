@@ -68,9 +68,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      </a> 
     </a>
-  
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
+</p>
 
 
 
@@ -95,7 +95,6 @@
 <p align="center">
     <a href="https://github.com/shatilsarower/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarower Murshed Shatil's" src="https://github-readme-streak-stats.herokuapp.com/?user=shatilsarower&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count_private=true&theme=radical&card_width=445)<br><br>
     </a>
 </p>
 
