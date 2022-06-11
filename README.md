@@ -100,8 +100,9 @@
 <div align="center">
 
 <!-- [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/shatilsarower) -->
- [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark)](https://github.com/shatilsarower/github-readme-activity-graph) 
- 
+<!--  [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark)](https://github.com/shatilsarower/github-readme-activity-graph)  -->
+      
+ ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/shatilsarower/shatilsarower/blob/main/github-contribution-grid-snake.svg) 
 
 </div>
 
