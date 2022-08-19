@@ -141,4 +141,9 @@
  ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/t60az6lvj3olvgfda0tpg4krb)  
-    
+ 
+ 
+ 
+ 
+ 
+ <a href="https://www.buymeacoffee.com/sshatil233o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
