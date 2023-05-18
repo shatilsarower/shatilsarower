@@ -138,9 +138,12 @@
     
     
 
- ### Spotify Playing 🎧
+<!--  ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/t60az6lvj3olvgfda0tpg4krb)  
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/t60az6lvj3olvgfda0tpg4krb)   -->
+    
+ ### 🎶Spotify List
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/t60az6lvj3olvgfda0tpg4krb)   
  
  
  
