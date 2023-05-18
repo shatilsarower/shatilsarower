@@ -49,7 +49,8 @@
 
 - ⚡ Fun fact **I Love photography and Video games**
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools: -->
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
 <p align="left"> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/dusk/2x/c.png" alt="C" width="40" height="40"/> <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/officel/2x/c-plus-plus.png" alt="C++" width="40" height="40"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
