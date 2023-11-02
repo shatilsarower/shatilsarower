@@ -43,7 +43,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms. Object Oriented Programming, Clean Code,System Design,**
+- 🌱 I’m currently learning **Data Structures and Algorithms. Object Oriented Programming, Clean Code, System Design,**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -77,58 +77,15 @@
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 
+[![Shatil Sarower's GitHub Streak](https://streak-stats.demolab.com?user=shatilsarower&theme=vue-dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=512&background=45%2C1E0136%2C021A00&fire=EB4900&currStreakNum=EB4900&border=42B883 "Shatil Sarower's GitHub Streak")](https://github.com/shatilsarower) :green_circle: 
+[![Shatil Sarower's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&theme=vue-dark&hide_border=false&border_color=42B883&border_radius=25&bg_color=0,021A00,1E0136&include_all_commits=true&count_private=true&layout=compact "Shatil Sarower's Most Used Language")](https://github.com/shatilsarower)
 
-<p align="center">
-    <a href="https://github.com/shatilsarower/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarower Murshed Shatil's" src="https://github-readme-streak-stats.herokuapp.com/?user=shatilsarower&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!-- ## 📊 My Github Stats --> 
-
-<div align="center">
+[![Shatil Sarower's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shatilsarower&radius=25&theme=vue&height=300&area=true&title_color=ffffff&color=ffffff&bg_color=021201&point=42B883&line=EB4900 "Shatil Sarower's Github Contributions Graph")](https://github.com/shatilsarower)
 
 
-
-  <br/>
-    <a href="https://github.com/shatilsarower/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shatilsarower&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shatilsarower/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> 
- <div align="center">
-
-
-
-<div align="center">
-
-<!-- [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/shatilsarower) -->
-<!--  [![Shatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark)](https://github.com/shatilsarower/github-readme-activity-graph)  -->
-      
- 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shatilsarower&theme=react-dark&hide_border=true&area=true)
-</div>
-
-<br/>
-<br/>
 
 <p align="center"> 
   Visitors Count<br>
