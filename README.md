@@ -78,7 +78,7 @@
 </p>
 
 <div align="center">
-
+<hr>
 
 [![Shatil Sarower's GitHub Streak](https://streak-stats.demolab.com?user=shatilsarower&theme=vue-dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=512&background=45%2C1E0136%2C021A00&fire=EB4900&currStreakNum=EB4900&border=42B883 "Shatil Sarower's GitHub Streak")](https://github.com/shatilsarower) :green_circle: 
 [![Shatil Sarower's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=shatilsarower&theme=vue-dark&hide_border=false&border_color=42B883&border_radius=25&bg_color=0,021A00,1E0136&include_all_commits=true&count_private=true&layout=compact "Shatil Sarower's Most Used Language")](https://github.com/shatilsarower)
