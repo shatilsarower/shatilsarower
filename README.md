@@ -33,119 +33,137 @@
 
 <p align="center">
 
-- 📋 Languages:
-    
-   <!-- 🧩 TOOLS & STACK SECTION -->
-<h2 align="center">🧩 Tools & Services</h2>
-
-> <p align="center">Powerful ecosystem of tools, integrations, and frameworks I work with regularly.</p>
+<h1 align="center">⚙️ Tech Stack & Tools</h1>
 
 <p align="center">
-  <!-- Tools -->
-  <a href="https://panache.flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Panache-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://squareup.com/" target="_blank"><img src="https://img.shields.io/badge/Square-%23000000.svg?style=for-the-badge&logo=square&logoColor=white" /></a>
-  <a href="https://www.appsflyer.com/" target="_blank"><img src="https://img.shields.io/badge/AppsFlyer-%2300BFA5.svg?style=for-the-badge&logo=appsflyer&logoColor=white" /></a>
-  <a href="https://supernova.io/" target="_blank"><img src="https://img.shields.io/badge/Supernova-%236C63FF.svg?style=for-the-badge&logo=supernova&logoColor=white" /></a>
-  <a href="https://count.ly/" target="_blank"><img src="https://img.shields.io/badge/Countly-%2300C853.svg?style=for-the-badge&logo=countly&logoColor=white" /></a>
-  <a href="https://testmagic.io/" target="_blank"><img src="https://img.shields.io/badge/TestMagic-%23009688.svg?style=for-the-badge&logo=magic&logoColor=white" /></a>
-  <a href="https://www.instabug.com/" target="_blank"><img src="https://img.shields.io/badge/Instabug-%23006EFF.svg?style=for-the-badge&logo=instabug&logoColor=white" /></a>
-  <a href="https://codemagic.io/" target="_blank"><img src="https://img.shields.io/badge/Codemagic-%2300BCD4.svg?style=for-the-badge&logo=codemagic&logoColor=white" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-  <a href="https://amplitude.com/" target="_blank"><img src="https://img.shields.io/badge/Amplitude-%23115FF0.svg?style=for-the-badge&logo=amplitude&logoColor=white" /></a>
-  <a href="https://www.vysor.io/" target="_blank"><img src="https://img.shields.io/badge/Vysor-%2334A853.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <i>“Building scalable, beautiful, and optimized systems — one layer at a time.”</i>
 </p>
 
 ---
 
-<h2 align="center">🐍 Programming Languages</h2>
-
-> <p align="center">Technologies I love working with — from low-level performance to cross-platform magic.</p>
+## 🧩 Tools & Services  
+> Frameworks, SDKs, and Platforms I frequently integrate with.
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://panache.flutter.dev/"><img src="https://img.shields.io/badge/Panache-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://squareup.com/"><img src="https://img.shields.io/badge/Square-%23000000.svg?style=for-the-badge&logo=square&logoColor=white"/></a>
+  <a href="https://www.appsflyer.com/"><img src="https://img.shields.io/badge/AppsFlyer-%2300BFA5.svg?style=for-the-badge&logo=appsflyer&logoColor=white"/></a>
+  <a href="https://supernova.io/"><img src="https://img.shields.io/badge/Supernova-%236C63FF.svg?style=for-the-badge&logo=supernova&logoColor=white"/></a>
+  <a href="https://count.ly/"><img src="https://img.shields.io/badge/Count.ly-%2300C853.svg?style=for-the-badge&logo=countly&logoColor=white"/></a>
+  <a href="https://testmagic.io/"><img src="https://img.shields.io/badge/Test_Magic-%23009688.svg?style=for-the-badge&logo=magic&logoColor=white"/></a>
+  <a href="https://www.instabug.com/"><img src="https://img.shields.io/badge/Instabug-%23006EFF.svg?style=for-the-badge&logo=instabug&logoColor=white"/></a>
+  <a href="https://codemagic.io/"><img src="https://img.shields.io/badge/Codemagic-%2300BCD4.svg?style=for-the-badge&logo=codemagic&logoColor=white"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+  <a href="https://amplitude.com/"><img src="https://img.shields.io/badge/Amplitude-%23115FF0.svg?style=for-the-badge&logo=amplitude&logoColor=white"/></a>
+  <a href="https://www.vysor.io/"><img src="https://img.shields.io/badge/Vysor-%2334A853.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">☁️ Cloud Platforms</h2>
+## 💻 Core Programming Languages  
+> Languages I use to build, automate, and optimize systems.
 
 <p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">♾️ DevOps & Infrastructure</h2>
+## ☁️ Cloud Platforms  
+> Reliable infrastructure & scalable deployment environments.
 
 <p align="center">
-  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /></a>
-  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
-  <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">💾 Databases</h2>
+## ♾️ DevOps & Automation  
+> Tools I use for CI/CD, orchestration, and infrastructure automation.
 
 <p align="center">
-  <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white" /></a>
-  <a href="https://www.influxdata.com/"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" /></a>
-  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+  <a href="https://www.vagrantup.com/"><img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">💻 Operating Systems</h2>
+## 💾 Databases  
+> Structured, unstructured, and time-series data management.
 
 <p align="center">
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" /></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
-  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></a>
-  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white"/></a>
+  <a href="https://www.influxdata.com/"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">🧰 IDEs & Editors</h2>
+## 🧠 Operating Systems  
+> Daily environments I rely on for development and server management.
 
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-  <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" /></a>
-  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
-  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 </p>
 
 ---
 
-<h2 align="center">🥇 Others & Creative Tools</h2>
+## 🧰 IDEs & Editors  
+> Tools I use for writing, debugging, and optimizing code.
 
 <p align="center">
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></a>
-  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /></a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" /></a>
-  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></a>
-  <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=green"/></a>
+  <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
 </p>
 
+---
+
+## 🧮 Others  
+> Supporting tools, monitoring systems, and creative software.
+
+<p align="center">
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/></a>
+  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 </p>
 
-<hr>
+---
+
+<h3 align="center">🚀 Constantly Evolving. Always Learning.</h3>
+
+<p align="center">
+  <i>“The more you automate, the more time you have to innovate.”</i>
+</p>
+
 
 ### GitHub Profile Stats:
 
