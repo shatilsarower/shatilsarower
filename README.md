@@ -35,10 +35,20 @@
 
 - 📋 Languages:
     
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ## 🧩 Tools & Services
+
+[![Panache](https://img.shields.io/badge/Panache-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://panache.flutter.dev/)
+[![Square](https://img.shields.io/badge/Square-%23000000.svg?style=for-the-badge&logo=square&logoColor=white)](https://squareup.com/)
+[![AppsFlyer](https://img.shields.io/badge/AppsFlyer-%2300BFA5.svg?style=for-the-badge&logo=appsflyer&logoColor=white)](https://www.appsflyer.com/)
+[![Supernova](https://img.shields.io/badge/Supernova-%236C63FF.svg?style=for-the-badge&logo=supernova&logoColor=white)](https://supernova.io/)
+[![Countly](https://img.shields.io/badge/Count.ly-%2300C853.svg?style=for-the-badge&logo=countly&logoColor=white)](https://count.ly/)
+[![TestMagic](https://img.shields.io/badge/Test%20Magic-%23009688.svg?style=for-the-badge&logo=magic&logoColor=white)](https://testmagic.io/)
+[![Instabug](https://img.shields.io/badge/Instabug-%23006EFF.svg?style=for-the-badge&logo=instabug&logoColor=white)](https://www.instabug.com/)
+[![Codemagic](https://img.shields.io/badge/Codemagic-%2300BCD4.svg?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Amplitude](https://img.shields.io/badge/Amplitude-%23115FF0.svg?style=for-the-badge&logo=amplitude&logoColor=white)](https://amplitude.com/)
+[![Vysor](https://img.shields.io/badge/Vysor-%2334A853.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vysor.io/)
+
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
