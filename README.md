@@ -35,108 +35,113 @@
 
 - 📋 Languages:
     
-    ## 🧩 Tools & Services
+   <!-- 🧩 TOOLS & STACK SECTION -->
+<h2 align="center">🧩 Tools & Services</h2>
 
-[![Panache](https://img.shields.io/badge/Panache-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://panache.flutter.dev/)
-[![Square](https://img.shields.io/badge/Square-%23000000.svg?style=for-the-badge&logo=square&logoColor=white)](https://squareup.com/)
-[![AppsFlyer](https://img.shields.io/badge/AppsFlyer-%2300BFA5.svg?style=for-the-badge&logo=appsflyer&logoColor=white)](https://www.appsflyer.com/)
-[![Supernova](https://img.shields.io/badge/Supernova-%236C63FF.svg?style=for-the-badge&logo=supernova&logoColor=white)](https://supernova.io/)
-[![Countly](https://img.shields.io/badge/Count.ly-%2300C853.svg?style=for-the-badge&logo=countly&logoColor=white)](https://count.ly/)
-[![TestMagic](https://img.shields.io/badge/Test%20Magic-%23009688.svg?style=for-the-badge&logo=magic&logoColor=white)](https://testmagic.io/)
-[![Instabug](https://img.shields.io/badge/Instabug-%23006EFF.svg?style=for-the-badge&logo=instabug&logoColor=white)](https://www.instabug.com/)
-[![Codemagic](https://img.shields.io/badge/Codemagic-%2300BCD4.svg?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Amplitude](https://img.shields.io/badge/Amplitude-%23115FF0.svg?style=for-the-badge&logo=amplitude&logoColor=white)](https://amplitude.com/)
-[![Vysor](https://img.shields.io/badge/Vysor-%2334A853.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vysor.io/)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+> <p align="center">Powerful ecosystem of tools, integrations, and frameworks I work with regularly.</p>
 
-    
-    
-- ☁️ Cloud:
+<p align="center">
+  <!-- Tools -->
+  <a href="https://panache.flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Panache-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://squareup.com/" target="_blank"><img src="https://img.shields.io/badge/Square-%23000000.svg?style=for-the-badge&logo=square&logoColor=white" /></a>
+  <a href="https://www.appsflyer.com/" target="_blank"><img src="https://img.shields.io/badge/AppsFlyer-%2300BFA5.svg?style=for-the-badge&logo=appsflyer&logoColor=white" /></a>
+  <a href="https://supernova.io/" target="_blank"><img src="https://img.shields.io/badge/Supernova-%236C63FF.svg?style=for-the-badge&logo=supernova&logoColor=white" /></a>
+  <a href="https://count.ly/" target="_blank"><img src="https://img.shields.io/badge/Countly-%2300C853.svg?style=for-the-badge&logo=countly&logoColor=white" /></a>
+  <a href="https://testmagic.io/" target="_blank"><img src="https://img.shields.io/badge/TestMagic-%23009688.svg?style=for-the-badge&logo=magic&logoColor=white" /></a>
+  <a href="https://www.instabug.com/" target="_blank"><img src="https://img.shields.io/badge/Instabug-%23006EFF.svg?style=for-the-badge&logo=instabug&logoColor=white" /></a>
+  <a href="https://codemagic.io/" target="_blank"><img src="https://img.shields.io/badge/Codemagic-%2300BCD4.svg?style=for-the-badge&logo=codemagic&logoColor=white" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://amplitude.com/" target="_blank"><img src="https://img.shields.io/badge/Amplitude-%23115FF0.svg?style=for-the-badge&logo=amplitude&logoColor=white" /></a>
+  <a href="https://www.vysor.io/" target="_blank"><img src="https://img.shields.io/badge/Vysor-%2334A853.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    
-- ♾️ DevOps:
+---
 
-    ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-    ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-    ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-    
-- 💾 Databases:
+<h2 align="center">🐍 Programming Languages</h2>
 
-    ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-    ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) 
-    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    
-- 🎛️ Operating System:
+> <p align="center">Technologies I love working with — from low-level performance to cross-platform magic.</p>
 
-    ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-    ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-    ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-    ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-    ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
-    ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    
-- 💻 IDEs/Editors:
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+</p>
 
-    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    
-- 🥅 Others:
+---
 
-    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-    ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-    ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-    ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-    ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-    ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-    ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-    ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-    ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<h2 align="center">☁️ Cloud Platforms</h2>
 
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">♾️ DevOps & Infrastructure</h2>
+
+<p align="center">
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+  <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💾 Databases</h2>
+
+<p align="center">
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white" /></a>
+  <a href="https://www.influxdata.com/"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" /></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Operating Systems</h2>
+
+<p align="center">
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">🧰 IDEs & Editors</h2>
+
+<p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" /></a>
+  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">🥇 Others & Creative Tools</h2>
+
+<p align="center">
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" /></a>
+  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></a>
+  <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /></a>
+</p>
 
 </p>
 
